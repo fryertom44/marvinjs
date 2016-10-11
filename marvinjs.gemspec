@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Gem wrapper for the MarvinJS component}
   spec.description   = %q{Marvin JS is ChemAxon’s novel chemical editor designed for the wider community. Marvin JS provides a clean, smart user-oriented tool for quick and convenient drawing of chemical structures and reactions/reaction mechanisms in web pages.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = ""
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
